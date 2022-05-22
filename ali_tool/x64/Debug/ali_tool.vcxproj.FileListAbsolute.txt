@@ -1,0 +1,3 @@
+H:\ali tool\ali_tool\ali_tool\x64\Debug\ali_tool.vcxproj.AssemblyReference.cache
+H:\ali tool\ali_tool\ali_tool\x64\Debug\alitool.MyForm.resources
+H:\ali tool\ali_tool\ali_tool\x64\Debug\ali_tool.vcxproj.GenerateResource.cache
